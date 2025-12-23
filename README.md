@@ -1,38 +1,70 @@
-# Hi there, I'm Bablu Kumar Jha!
+# 👋 Hi there, I’m Bablu Kumar Jha
 
-I'm a **passionate Data Scientist in the making** with over **1 year of experience** as a **Computer and Tally Trainer**. Currently, I work as an **Account Officer cum Data Analyst**, where I blend analytical thinking with domain expertise to drive impactful decisions through data.
+## 🚀 Data Scientist | Machine Learning & AI Engineer  
 
----
+I am a full-time Data Scientist with strong hands-on experience in Machine Learning, Deep Learning, Predictive Analytics, and Data Visualization. I work on transforming raw data into actionable insights and scalable ML solutions that drive real business impact.
 
-### 🎯 Career Highlights:
-- Strong foundation in **Python**, **Data Analysis**, and **Visualization**
-- Experienced in tools like **Tally**, **Power BI**, **SQL**, and **MongoDB**
-- Continuously learning and building real-world ML projects
+I specialize in building end-to-end data science pipelines — from data collection and preprocessing to model training, evaluation, and deployment.
 
 ---
 
-### 📜 Certifications:
-- **IBM Data Science Certification**
-- **LinkedIn Learning – Data Analytics**
-- **Pandas Certification** – Great Learning
-- **Python Certification** – Great Learning
-- **CS109a – Data Science** – Harvard University (Online)
-- **Machine Learning** – Harvard University
-- And many more in the field of data science and analytics
+## 🎯 Professional Highlights
+- Full-time Data Scientist working on real-world business problems  
+- Strong expertise in Python, SQL, Power BI, and Machine Learning  
+- Experience building forecasting models, churn prediction systems, NLP chatbots, and recommendation engines  
+- Skilled in data cleaning, feature engineering, model optimization, and automated reporting  
+- Domain exposure in finance, accounting, and taxation for structured business data analysis  
 
 ---
 
-### 🔧 Skills & Tools:
-`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `SQL` | `MongoDB` | `Power BI` | `PyTorch` | `TensorFlow` | `Tally` | `Git & GitHub`
+## 📜 Certifications & Learning
+- IBM Data Science Professional Certificate  
+- Harvard University – Machine Learning  
+- Harvard University – CS109a: Data Science (Online)  
+- LinkedIn Learning – Data Analytics  
+- Great Learning – Python & Pandas  
+- Continuous learner in AI, ML, and advanced analytics  
 
 ---
 
-### 🚀 Currently Working On:
-- Machine Learning with **TensorFlow** and **PyTorch**
-- Exploring **Big Data** tools like **Hadoop** and advanced **MongoDB Aggregations**
-- Hands-on projects in **EDA**, **Data Cleaning**, and **Model Deployment**
+## 🔧 Skills & Tech Stack
+
+**Languages & Databases**  
+Python | SQL | MongoDB | MySQL | PostgreSQL  
+
+**Data Science & ML**  
+Pandas | NumPy | Scikit-learn  
+TensorFlow | PyTorch  
+NLP: NLTK | spaCy | Transformers  
+
+**Visualization & BI**  
+Power BI | Matplotlib | Seaborn  
+
+**Tools & Platforms**  
+Git | GitHub | Jupyter Notebook | VS Code  
 
 ---
+
+## 🚀 What You’ll Find Here
+- Data Analysis & Visualization projects  
+- Machine Learning & Deep Learning models  
+- NLP & AI-based applications  
+- Forecasting & Recommendation Systems  
+- End-to-End ML pipelines and automation  
+
+---
+
+## 🎯 Current Focus
+- Advanced Machine Learning & Deep Learning  
+- NLP & Generative AI applications  
+- Model deployment and MLOps basics  
+- Scalable AI solutions for business growth  
+
+---
+
+⭐ Feel free to explore my repositories, fork projects, or connect with me.  
+I’m always open to collaboration and impactful data-driven work.
+
 
 
 
